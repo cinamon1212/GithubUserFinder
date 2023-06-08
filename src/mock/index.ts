@@ -9,7 +9,7 @@ export const defaultUser: LocalGithubUser = {
 	location: null,
 	bio: null,
 	twitter: null,
-	repos: 12,
+	repos: 13,
 	followers: 0,
 	following: 0,
 	created: '2022-12-02T21:23:40Z',
